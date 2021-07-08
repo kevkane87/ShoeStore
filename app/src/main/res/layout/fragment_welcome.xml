@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Constraint view selected to constrain buttons and views
+ ~ Constraint view selected for this layout as the welcome page contains a button and textviews
+  which I would like to be aligned relative to the sides of the screen.
+  This is achieved much easier with constraint layout
   -->
 
+
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

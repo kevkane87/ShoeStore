@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-  ~ Linear layout selected to contain scroll view
+  ~ Linear layout selected for this layout as the design is a simple vertical layout containing
+  a text view and scroll view. The scroll view extends to the bottom of the screen as required
+  using the linear layout
   -->
 
 <layout xmlns:android="http://schemas.android.com/apk/res/android"

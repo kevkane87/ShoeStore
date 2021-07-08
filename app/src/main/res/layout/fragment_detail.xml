@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-  ~ Constraint view selected to constrain buttons and views
+  ~ Constraint view selected for this layout as the details page contains
+  a number of textViews and buttons which require a complex alignment.
+  This is achieved much easier using constraint view
   -->
 
 <layout xmlns:android="http://schemas.android.com/apk/res/android"

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-  ~ Constraint view selected to constrain buttons and views
+  ~ Constraint view selected for this layout as the instructions page contains a button and
+  text views which I would like to be aligned relative to the sides of the screen.
+  This is achieved much easier with constraint layout
   -->
 
 <layout
