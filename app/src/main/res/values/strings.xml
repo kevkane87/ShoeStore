@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="shoestorelogin">Shoe Store Login</string>
+    <string name="welcome">Welcome to Shoe Store</string>
+    <string name="inventory">Shoe Store Inventory App</string>
+    <string name="continueButton">Continue</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructionsText">The Shoe Store App constructs an inventory list of shoes for a shoe store. You can add a shoe to the list by pressing the yellow button on the shoe list screen</string>
+    <string name="shoelist_heading">Shoe List</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name:</string>
+    <string name="shoeDetailHeading">Shoe Detail</string>
+    <string name="size">Size:</string>
+    <string name="company">Company:</string>
+    <string name="description">Description:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+</resources>
